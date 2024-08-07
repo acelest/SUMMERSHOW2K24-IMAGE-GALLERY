@@ -6,7 +6,7 @@ module.exports = {
         protocol: "https",
         hostname: "res.cloudinary.com",
         port: "",
-        pathname: "/my-account/**",
+        pathname: "/dljayhfu0/image/upload/**", // Assurez-vous que le chemin est correct
       },
     ],
   },
